@@ -7,6 +7,7 @@ You know you are ready if you can answer all those questions quickly:
 ![quizz](https://media.giphy.com/media/LOznMvZUKneOhiIscg/giphy.gif)
 
 * What is a **document** in NLP?
+- a **document** in NLP is 
 * What is a **RNN** and what is it used for?
 * What does **LSTM** stand for and what is it used for?
 * What is a **Tranformer** and what is it used for?
